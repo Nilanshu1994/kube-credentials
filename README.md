@@ -4,4 +4,4 @@
 
 ### Decrypt:
 - openssl enc -in encrypted-credentials.enc -out encrypted-credentials.tar -d -aes256 -k your_key
-- tar -zxvf encrypted-credentials.targit re
+- tar -xvf encrypted-credentials.tar
